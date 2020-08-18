@@ -15,10 +15,6 @@ You will save a lot of time going from prototyping to full-functional code becau
 
 Start your development with a Premium Argon Design System for Bootstrap 4 and VueJs. Argon is a completly new product built on our newest re-built from scratch framework structure that is meant to make our products more intuitive, more adaptive and, needless to say, so much easier to customize. Let Argon amaze you with its cool features and build tools and get your project to a whole new level. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
-**Fully coded components**
-
-**Vue Argon Design System PRO** is built with over 1100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SCSS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Design System is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
-
 **Complex Documentation**
 
 Each element is well presented in a very complex documentation. You can read more about the idea behind this design system [here](https://www.creative-tim.com/learning-lab/vue/overview/argon-design-system?ref=vadsp-github-readme). You can check the components [here](https://www.creative-tim.com/learning-lab/vue/alerts/argon-design-system?ref=vadsp-github-readme) and the foundation [here](https://www.creative-tim.com/learning-lab/vue/colors/argon-design-system?ref=vadsp-github-readme).
